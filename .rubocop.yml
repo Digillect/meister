@@ -1,0 +1,26 @@
+AllCops:
+  TargetRubyVersion: 2.6
+
+Layout/MultilineMethodCallIndentation:
+  EnforcedStyle: indented_relative_to_receiver
+
+Metrics/ClassLength:
+  Max: 200
+
+Metrics/LineLength:
+  Max: 140
+
+Metrics/MethodLength:
+  Max: 20
+
+Style/Documentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/ConditionalAssignment:
+  Enabled: false
