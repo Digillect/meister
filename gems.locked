@@ -37,7 +37,7 @@ GEM
     parser (2.6.3.0)
       ast (~> 2.4.0)
     puma (3.12.4)
-    rack (2.0.8)
+    rack (2.2.3)
     rack-protection (2.0.5)
       rack
     rainbow (3.0.0)
